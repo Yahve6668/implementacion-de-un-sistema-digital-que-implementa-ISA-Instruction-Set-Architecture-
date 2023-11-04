@@ -1,0 +1,7 @@
+verilog work "../sumador/sumador.v"
+verilog work "../sumador/memoria.v"
+verilog work "../sumador/contador.v"
+verilog work "registro.v"
+verilog work "muxp.v"
+verilog work "fms.v"
+verilog work "main.v"

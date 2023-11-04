@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/lalo1_000/Desktop/Arquitecturas/Proyectofinal/caso_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="caso" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/caso/resultado" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">resultado[13:0]</obj_property>
+      <obj_property name="ObjectShortName">resultado[13:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/caso/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/caso/uut/PC/d" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">d[4:0]</obj_property>
+      <obj_property name="ObjectShortName">d[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/caso/uut/MEN/men" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">men[0:31,13:0]</obj_property>
+      <obj_property name="ObjectShortName">men[0:31,13:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/caso/uut/MEN/men[0]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[0,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[1]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[1,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[2]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[2,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[3]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[3,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[4]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[4,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[5]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[5,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[6]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[6,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[7]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[7,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[8]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[8,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[9]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[9,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[10]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[10,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[10,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[11]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[11,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[11,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[12]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[12,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[12,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[13]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[13,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[13,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[14]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[14,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[14,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[15]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[15,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[15,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[16]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[16,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[16,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[17]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[17,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[17,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[18]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[18,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[18,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[19]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[19,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[19,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[20]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[20,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[20,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[21]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[21,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[21,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[22]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[22,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[22,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[23]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[23,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[23,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[24]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[24,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[24,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[25]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[25,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[25,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[26]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[26,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[26,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[27]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[27,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[27,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[28]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[28,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[28,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[29]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[29,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[29,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[30]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[30,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[30,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/caso/uut/MEN/men[31]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[31,13:0]</obj_property>
+         <obj_property name="ObjectShortName">men[31,13:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
